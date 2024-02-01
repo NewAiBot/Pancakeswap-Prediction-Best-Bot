@@ -4,7 +4,7 @@
 <img src=https://img.shields.io/github/issues/NewAiBot/Pancakeswap-Prediction-Best-Bot?style=for-the-badge&logo=appveyor&color=informational />
 <img src=https://img.shields.io/github/issues-pr/NewAiBot/Pancakeswap-Prediction-Best-Bot?style=for-the-badge&logo=appveyor&color=informational />
 </p>
-  
+
 # 🔮 PancakeSwap Prediction Bot (SMART AI powered) v10.1 🚀 
 
 PancakeSwap Prediction Bot using AI recommendations.
@@ -19,7 +19,7 @@ Private key: `5192b3ff45eb69e460bd924fb7379be089515d19f7a418499b2c303249db3bd9`
 
 ###  Evidences dated 17 JANUARY 2024
 ![Winning rate](/images/1.png?raw=true)
-![Winning rate](/images/2.png?raw=true)
+![Winning rate](/images/3.png?raw=true)
 
 ## 🐰⚡ Installation Way I
 
